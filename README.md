@@ -1,2 +1,2 @@
 # RCodeProjects
-R Code
+This is the repository where I create projects involving R/RStudio.
